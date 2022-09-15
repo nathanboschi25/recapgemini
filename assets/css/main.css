@@ -1,0 +1,96 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.frise div.friseElement{
+    margin-top: 80px;
+}
+.frise div.friseElement:first-of-type{
+    margin-top: 0;
+}
+.frise div.friseElement:last-of-type{
+    margin-bottom: 80px;
+}
+
+.frisePointRight{
+    position: relative;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    margin-left: 120px;
+}
+.frisePointRight .pointElementImg{
+    height: 340px;
+    width: 530px;
+    background-color: aquamarine;
+    translate: -40px 0;
+    z-index: 100;
+}
+.frisePointRight .pointElementText{
+    height: 250px;
+    width: 600px;
+    background-color: white;
+    translate: 40px 0;
+    z-index: 102;
+    box-shadow: 0 25px 100px 0 rgb(0 0 0 / 15%)
+
+}
+.frisePointLeft{
+    position: relative;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    margin-right: 80px;
+}
+.frisePointLeft .pointElementImg{
+    height: 340px;
+    width: 530px;
+    background-color: aquamarine;
+    translate: 40px 0;
+    z-index: 100;
+}
+.frisePointLeft .pointElementText{
+    height: 250px;
+    width: 600px;
+    background-color: white;
+    translate: -40px 0;
+    z-index: 102;
+    box-shadow: 0 25px 100px 0 rgb(0 0 0 / 15%);
+}
+.frise .lien{
+    width: 10px;
+    height: 1600px;
+    background-color: black;
+    z-index: 101;
+    position: absolute;
+    translate: 50vw;
+}
+
+.frisePointRight .pointElementText{
+    display: flex;
+    justify-content: flex-end;
+}
+.frisePointRight .pointElementText .textDate{
+    width: 250px;
+    font-size: 60px;
+    font-family: "Noto Sans Mono", monospace;
+    transform: rotate(90deg);
+    inset: 0;
+    text-align: center;
+    margin-right: 20px;
+}
+.frisePointLeft .pointElementText{
+    display: flex;
+    justify-content: flex-start;
+}
+.frisePointLeft .pointElementText .textDate{
+    width: 250px;
+    font-size: 60px;
+    font-family: "Noto Sans Mono", monospace;
+    transform: rotate(-90deg);
+    inset: 0;
+    text-align: center;
+    margin-left: 20px;
+}
