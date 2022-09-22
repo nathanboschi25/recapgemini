@@ -72,25 +72,47 @@ body{
     display: flex;
     justify-content: flex-end;
 }
-.frisePointRight .pointElementText .textDate{
-    width: 250px;
-    font-size: 60px;
-    font-family: "Noto Sans Mono", monospace;
-    transform: rotate(90deg);
-    inset: 0;
-    text-align: center;
-    margin-right: 20px;
-}
 .frisePointLeft .pointElementText{
     display: flex;
     justify-content: flex-start;
 }
-.frisePointLeft .pointElementText .textDate{
+
+.pointElementText .textDate{
     width: 250px;
-    font-size: 60px;
+    font-size: 50px;
     font-family: "Noto Sans Mono", monospace;
-    transform: rotate(-90deg);
     inset: 0;
     text-align: center;
+    z-index: 103;
+}
+.frisePointRight .pointElementText .textDate{
+     transform: rotate(90deg);
+     margin-right: 20px;
+ }
+.frisePointLeft .pointElementText .textDate{
+    transform: rotate(-90deg);
     margin-left: 20px;
+}
+
+.pointElementText .textDetail{
+    z-index: 104;
+    position: absolute;
+    padding: 20px;
+    height: 210px;
+}
+.frisePointLeft .pointElementText .textDetail {
+    margin-left: 80px;
+}
+.frisePointRight .pointElementText .textDetail{
+    margin-right: 80px;
+}
+
+.textDetail h3{
+    font-family: "Noto Sans Mono";
+    margin-top: 0;
+}
+.textDetail div {
+    font-family: "Ubuntu Thin";
+    text-align: justify;
+    text-justify: inter-word;
 }
