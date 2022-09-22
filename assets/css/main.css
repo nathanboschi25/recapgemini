@@ -1,0 +1,26 @@
+body{
+    background-color: floralwhite;
+}
+header, h1{
+    width: 100%;
+    text-align: center;
+    font-family: "DejaVu Sans Light";
+    font-size: 25px;
+}
+img{
+    width: 200px;
+    margin: auto;
+    margin-top: 20vh;
+    display: block;
+}
+h1{
+    text-transform: uppercase;
+    font-family: "DejaVu Sans Light";
+    font-size: 80px;
+}
+
+p, div{
+    width: 100%;
+    text-align: center;
+    font-family: "DejaVu Sans";
+}
