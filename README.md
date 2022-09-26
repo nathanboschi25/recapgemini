@@ -1,7 +1,7 @@
 # ReCAPgemini
-##Sujet
+## Sujet
 Capgemini
-##Membres du groupe :
+## Membres du groupe :
  - BOSCHI Nathan (référent)
  - MOUGAMMADALY Jessy
  - GASNER Théo
