@@ -1,26 +1,6 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css");
 body{
-    background-color: floralwhite;
-}
-header, h1{
-    width: 100%;
-    text-align: center;
-    font-family: "DejaVu Sans Light";
-    font-size: 25px;
-}
-img{
-    width: 200px;
-    margin: auto;
-    margin-top: 20vh;
-    display: block;
-}
-h1{
-    text-transform: uppercase;
-    font-family: "DejaVu Sans Light";
-    font-size: 80px;
-}
-
-p, div{
-    width: 100%;
-    text-align: center;
-    font-family: "DejaVu Sans";
+    margin: 0;
+    padding: 0;
+    background-color: whitesmoke;
 }
