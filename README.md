@@ -12,3 +12,6 @@ Ce dépôt correspond à un site web créé en HTML/CSS/JS dans le cadre de la S
 ## Choix de conception
 Pour la conception du site, nous nous sommes grandement inspirés du site officiel de Capgemini (trouvable [ici](https://www.capgemini.com/fr-fr/)), du site d'un de ses principaux concurrents [Sopra Steria](https://www.soprasteria.fr/) et nous avons pris comme référence la charte de Capgemini disponible [ici](doc/charte_graphique.pdf).
 
+### Zoning
+
+![écran de zoning accueil no-scroll](doc/zoning_accueil_noscroll.drawio.png)
