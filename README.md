@@ -21,7 +21,7 @@ Pour la conception du site, nous nous sommes grandement inspirés du site offici
 ![accueil_zonning_scrolled](doc/zoning_accueil_scrolled.drawio.png)
 
 **Ecran de zoning du template :**\
-![page_zoning](doc/zoning_page.png)
+![page_zoning](doc/zoning_page.drawio.png)
 
 **Ecran de wireframe du template pour les autres pages :**\
 ![page_wireframe](doc/wireframe_page_histoire.png)
