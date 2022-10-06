@@ -44,8 +44,13 @@
         text-transform: uppercase;
         border-right: solid 2px gray;
         transition: 0.3s; }
+        .nav-container nav ul li a {
+          text-decoration: none;
+          color: #525252; }
       .nav-container nav ul li:hover {
         color: darkgray; }
+        .nav-container nav ul li:hover a {
+          color: inherit; }
       .nav-container nav ul li:last-of-type {
         border: 0; }
 
@@ -114,5 +119,27 @@ html:not([data-scroll='0']) .nav-container {
 
 main {
   padding: 5vw; }
+  main .ligne1 {
+    margin-top: 50px; }
+    main .ligne1 .row .col {
+      margin: 0 10px 0 10px; }
+    main .ligne1 .row .images {
+      height: 265px;
+      background-color: green; }
+  main .ligne2 {
+    margin-top: 50px; }
+    main .ligne2 .row .col {
+      margin: 0 10px 0 10px; }
+    main .ligne2 .images .col {
+      height: 265px;
+      background-color: blue;
+      overflow: hidden;
+      padding: 0;
+      -webkit-box-shadow: 0px 0px 5px -2px #959595;
+      box-shadow: 0px 0px 10px 0px #959595; }
+      main .ligne2 .images .col img {
+        margin: 0;
+        padding: 0;
+        width: 100%; }
 
 /*# sourceMappingURL=accueil.css.map */

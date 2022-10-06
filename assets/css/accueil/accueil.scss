@@ -51,9 +51,16 @@
                 text-transform: uppercase;
                 border-right: solid 2px gray;
                 transition: 0.3s;
+                a {
+                    text-decoration: none;
+                    color: #525252;
+                }
             }
             li:hover{
                 color: darkgray;
+                a {
+                    color: inherit;
+                }
             }
             li:last-of-type{
                 border: 0;
@@ -142,4 +149,37 @@ html:not([data-scroll='0']) {
 
 main{
     padding: 5vw;
+    .ligne1{
+        margin-top: 50px;
+        .row{
+            .col{margin: 0 10px 0 10px}
+            .images{
+                height: 265px;
+                background-color: green;
+            }
+        }
+    }
+    .ligne2{
+        margin-top: 50px;
+        .row{
+            .col{margin: 0 10px 0 10px;}
+        }
+        .images{
+            .col{
+                height: 265px;
+                background-color: blue;
+                overflow: hidden;
+                padding: 0;
+                -webkit-box-shadow: 0px 0px 5px -2px #959595;
+                box-shadow: 0px 0px 10px 0px #959595;
+                img{
+                    margin: 0;
+                    padding: 0;
+                    width: 100%;
+
+                }
+            }
+        }
+    }
+
 }
