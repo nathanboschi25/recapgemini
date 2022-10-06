@@ -12,3 +12,19 @@ Ce dépôt correspond à un site web créé en HTML/CSS/JS dans le cadre de la S
 ## Choix de conception
 Pour la conception du site, nous nous sommes grandement inspirés du site officiel de Capgemini (trouvable [ici](https://www.capgemini.com/fr-fr/)), du site d'un de ses principaux concurrents [Sopra Steria](https://www.soprasteria.fr/) et nous avons pris comme référence la charte de Capgemini disponible [ici](doc/charte_graphique.pdf).
 
+### Zoning
+
+**Ecran de zoning de la page d'accueil (état initial) :**\
+![accueil_zonning_no-scroll](doc/zoning_accueil_noscroll.drawio.png)
+
+**Ecran de zoning de la page d'accueil (état post-défilement) :**\
+![accueil_zonning_scrolled](doc/zoning_accueil_scrolled.drawio.png)
+
+**Ecran de zoning du template :**\
+![page_zoning](doc/zoning_page.drawio.png)
+
+**Ecran de wireframe du template pour les autres pages :**\
+![page_wireframe](doc/wireframe_page_histoire.png)
+
+## Livrable parties Économie et Documents numérique
+[écran prototype](doc/groupe_nom1_nom2_nom3_nom4.pdf)
