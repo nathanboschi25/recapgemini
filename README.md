@@ -14,4 +14,4 @@ Pour la conception du site, nous nous sommes grandement inspirés du site offici
 
 ### Zoning
 
-![écran de zoning accueil no-scroll](doc/zoning_accueil_noscroll.drawio.png)
+![écran de zoning accueil no-scroll](doc/zoning_accueil_noscroll.drawio.png =250)
