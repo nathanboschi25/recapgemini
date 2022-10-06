@@ -48,6 +48,9 @@
     border-right: solid 2px gray;
     transition: 0.3s;
 }
+.nav-container nav ul li a {
+    color: inherit;
+}
 .nav-container nav ul li:hover{
     color: darkgray;
 }

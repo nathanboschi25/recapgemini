@@ -54,11 +54,6 @@
       .nav-container nav ul li:last-of-type {
         border: 0; }
 
-main {
-  margin: 0;
-  padding: 0;
-  height: 200vh; }
-
 .title-img {
   height: 85vh;
   background-image: url("../../img/accueil.webp");
@@ -118,6 +113,10 @@ html:not([data-scroll='0']) .nav-container {
       justify-content: flex-end; }
 
 main {
+  margin: 0;
+  padding: 0;
+  font-family: "Ubuntu";
+  line-height: 1.5em;
   padding: 5vw; }
   main h3 {
     font-size: 15pt; }
@@ -126,15 +125,21 @@ main {
     main .ligne1 .row .col {
       margin: 0 10px 0 10px; }
     main .ligne1 .row .images {
-      height: 265px;
-      background-color: green; }
+      overflow: hidden;
+      padding: 0;
+      -webkit-box-shadow: 0px 0px 5px -2px #959595;
+      box-shadow: 0px 0px 10px 0px #959595; }
+      main .ligne1 .row .images img {
+        margin: 0;
+        padding: 0;
+        width: 100%; }
+    main .ligne1 .row .texts {
+      text-align: justify; }
   main .ligne2 {
     margin-top: 50px; }
     main .ligne2 .row .col {
       margin: 0 10px 0 10px; }
     main .ligne2 .images .col {
-      height: 265px;
-      background-color: blue;
       overflow: hidden;
       padding: 0;
       -webkit-box-shadow: 0px 0px 5px -2px #959595;
@@ -143,5 +148,29 @@ main {
         margin: 0;
         padding: 0;
         width: 100%; }
+    main .ligne2 .texts {
+      text-align: justify;
+      line-height: 2em; }
+  main .engagements-eco {
+    margin: auto; }
+    main .engagements-eco .ecolo {
+      height: 750px;
+      margin: 150px 0 150px 0;
+      position: relative;
+      background-image: url("../../img/accueil/nature.jpg");
+      background-size: cover;
+      background-repeat: no-repeat; }
+      main .engagements-eco .ecolo .texts {
+        text-align: justify;
+        line-height: 2em;
+        width: 50%;
+        background-color: white;
+        padding: 40px;
+        position: absolute;
+        bottom: 60px;
+        top: auto;
+        transform: none; }
+        main .engagements-eco .ecolo .texts h3 {
+          margin-top: 0; }
 
 /*# sourceMappingURL=accueil.css.map */
