@@ -17,7 +17,8 @@ Pour la conception du site, nous nous sommes grandement inspirés du site offici
 ### Zoning	
 
 **Ecran de zoning de la page d'accueil (état initial) :**\	
-![accueil_zonning_no-scroll](doc/zoning_accueil_noscroll.drawio.png){width=100px}
+![accueil_zonning_no-scroll](doc/zoning_accueil_noscroll.drawio.png)
+<img src="doc/zoning_accueil_noscroll.drawio.png" style="width:250px;"></img>
 
 **Ecran de zoning de la page d'accueil (état post-défilement) :**\	
 ![accueil_zonning_scrolled](doc/zoning_accueil_scrolled.drawio.png)	
