@@ -40,7 +40,7 @@ Pour la conception du site, nous nous sommes grandement inspirés du site offici
 ![menu_accueil](doc/menu.png)
 
 **Menu général :**
-![menu_page](doc/menu2.png)
+![menu_page](doc/menu_page.png)
 
 ## Livrable parties Économie et Documents numérique	
 [écran prototype](doc/groupe_nom1_nom2_nom3_nom4.pdf)
