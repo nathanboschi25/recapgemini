@@ -110,7 +110,7 @@ html:not([data-scroll='0']) .nav-container {
     height: 100%; }
     html:not([data-scroll='0']) .nav-container nav ul {
       justify-content: space-between;
-      padding-left: 10vw; }
+      padding-left: 15vw; }
 
 main {
   margin: 0;
