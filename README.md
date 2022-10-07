@@ -18,12 +18,15 @@ Pour la conception du site, nous nous sommes grandement inspirés du site offici
 
 **Ecran de zoning de la page d'accueil (état initial) :**
 ![accueil_zonning_no-scroll](doc/zoning_accueil_noscroll.drawio.png)
-***Rendu final***
-<img src="doc/rendu_noscroll.png" width="20vw">
+***/// Rendu final***
+<br>
+<img src="doc/rendu_noscroll.png" width="400px">
 
 **Ecran de zoning de la page d'accueil (état post-défilement) :**
 ![accueil_zonning_scrolled](doc/zoning_accueil_scrolled.drawio.png)
-<img src="doc/rendu_scroll.png" width="20vw">
+***/// Rendu final***
+<br>
+<img src="doc/rendu_scroll.png" width="400px">
 
 **Ecran de zoning du template :**
 ![page_zoning](doc/zoning_page.drawio.png)	
