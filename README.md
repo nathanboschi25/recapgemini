@@ -1,6 +1,6 @@
 # ReCAPgemini	
 ## Sujet	
-Capgemini
+Capgemini\
 [Lien du site du projet](https://nathanboschi25.github.io/recapgemini/)
 ## Membres du groupe :	
  - [BOSCHI Nathan (référent)](mailto:nathan.boschi@edu.univ-fcomte.fr?subject=SAE_1_05_06)	
