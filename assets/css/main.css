@@ -34,11 +34,8 @@ a{
     text-decoration: none;
 }
 .active{
-    background-color: #0b75b0;
+    border-bottom: solid 4px #525252;
     padding: 5px 10px 5px 10px!important;
-}
-.active a{
-    color: white!important;
 }
 footer{
     font-family: Ubuntu;

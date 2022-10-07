@@ -42,7 +42,6 @@
         font-family: "Ubuntu Light";
         font-size: 15px;
         text-transform: uppercase;
-        border-right: solid 2px gray;
         transition: 0.3s; }
         .nav-container nav ul li a {
           text-decoration: none;
@@ -110,7 +109,8 @@ html:not([data-scroll='0']) .nav-container {
     float: right;
     height: 100%; }
     html:not([data-scroll='0']) .nav-container nav ul {
-      justify-content: flex-end; }
+      justify-content: space-between;
+      padding-left: 10vw; }
 
 main {
   margin: 0;
