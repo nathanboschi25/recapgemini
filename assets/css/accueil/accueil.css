@@ -39,7 +39,7 @@
         margin: 20px 0 20px 0;
         color: #525252;
         text-align: center;
-        font-family: "Ubuntu Light";
+        font-family: "Ubuntu Light", sans-serif;
         font-size: 15px;
         text-transform: uppercase;
         transition: 0.3s; }
@@ -61,7 +61,7 @@
   .title-img .titre {
     margin: 0;
     width: 90vw;
-    font-family: "Ubuntu Light";
+    font-family: "Ubuntu Light", sans-serif;
     /*background-color: rgba(255, 255, 255, 0.5);*/
     padding: 40px; }
     .title-img .titre h1 {
@@ -93,8 +93,8 @@ html:not([data-scroll='0']) .nav-container {
   background-color: white;
   height: 80px;
   display: block;
-  -webkit-box-shadow: 0px 8px 50px 0px rgba(194, 194, 194, 0.5);
-  box-shadow: 0px 8px 50px 0px rgba(194, 194, 194, 0.5); }
+  -webkit-box-shadow: 0 8px 50px 0 rgba(194, 194, 194, 0.5);
+  box-shadow: 0 8px 50px 0 rgba(194, 194, 194, 0.5); }
   html:not([data-scroll='0']) .nav-container .nav-logo {
     height: 100%;
     width: 20vw;
@@ -114,8 +114,7 @@ html:not([data-scroll='0']) .nav-container {
 
 main {
   margin: 0;
-  padding: 0;
-  font-family: "Ubuntu";
+  font-family: "Ubuntu", sans-serif;
   line-height: 1.5em;
   padding: 5vw; }
   main h3 {
@@ -127,8 +126,8 @@ main {
     main .ligne1 .row .images {
       overflow: hidden;
       padding: 0;
-      -webkit-box-shadow: 0px 0px 5px -2px #959595;
-      box-shadow: 0px 0px 10px 0px #959595; }
+      -webkit-box-shadow: 0 0 5px -2px #959595;
+      box-shadow: 0 0 10px 0 #959595; }
       main .ligne1 .row .images img {
         margin: 0;
         padding: 0;
@@ -147,8 +146,8 @@ main {
         margin: 0;
         padding: 0;
         width: 100%;
-        -webkit-box-shadow: 0px 0px 5px -2px #959595;
-        box-shadow: 0px 0px 10px 0px #959595; }
+        -webkit-box-shadow: 0 0 5px -2px #959595;
+        box-shadow: 0 0 10px 0 #959595; }
     main .ligne2 .texts {
       text-align: justify;
       line-height: 2em; }
