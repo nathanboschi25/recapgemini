@@ -61,6 +61,12 @@
 .nav-container nav ul li:last-of-type {
     border: 0; }
 
+.images img{
+    transition: all 0.5s ease-in-out;
+}
+.images img:hover{
+    transform: scale(0.9);
+}
 
 
 
@@ -80,3 +86,25 @@ main{
     width: 100%;
 }
 
+.activites{
+    text-align: center;
+}
+.activites img{
+    border-radius: 50px;
+}
+p{
+    font-size: 14pt;
+}
+
+.container .title img{
+    position: absolute;
+    z-index: 4000;
+}
+.hero-card{
+    position: relative;
+    top: 300px;
+    z-index: 5000;
+    width: 200px;
+    padding: 30px;
+    background-color: #ced4da;
+}

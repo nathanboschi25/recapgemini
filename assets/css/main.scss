@@ -4,9 +4,10 @@
 body{
     margin: 0;
     padding: 0;
-    background-color: white;
+    background-color: rgba(248, 248, 248, 0.97);
+    font-family: Ubuntu, sans-serif;
 }
-@media all and (max-width: 1400px){
+@media all and (max-width: 1700px){
     .nav-container nav ul li:last-of-type{
         display: none;
     }
@@ -52,6 +53,16 @@ a{
     margin: auto;
     display: block;
     background-color: #525252;
+}
+.displaynone{
+    display: none;
+}
+main{
+    margin-top: 15vh;
+    margin-bottom: 5vh;
+}
+.main-content{
+    background-color: white;
 }
 
 footer{
