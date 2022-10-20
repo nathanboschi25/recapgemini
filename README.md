@@ -44,18 +44,18 @@ Pour la conception du site, nous nous sommes grandement inspirés du site offici
 
 ## Site Web
 ### Page d'accueil
-**Auteur : Nathan BOSCHI**
+**Auteur : Nathan BOSCHI**/
 Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fnathanboschi25.github.io%2Frecapgemini%2F)
 
 ### Présentation générale
-**Auteur : Nathan BOSCHI**
+**Auteur : Nathan BOSCHI**/
 Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fnathanboschi25.github.io%2Frecapgemini%2Fpresentation.html)
 
 ### Histoire
-**Auteur : Jessy MOUGAMMADALY**
+**Auteur : Jessy MOUGAMMADALY**/
 Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fnathanboschi25.github.io%2Frecapgemini%2F)
 
 ### Organisation
-**Auteur : Théo GASNER**
+**Auteur : Théo GASNER**/
 Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fnathanboschi25.github.io%2Frecapgemini%2F)
 
