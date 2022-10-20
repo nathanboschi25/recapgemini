@@ -60,6 +60,6 @@ Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&sho
 
 ### Organisation
 **Auteur : Théo GASNER**\
-Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fnathanboschi25.github.io%2Frecapgemini%2F)
+Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fnathanboschi25.github.io%2Frecapgemini%2Forganisation.html)
 ![w3c organisation](doc/w3c/organisation.png)
 
