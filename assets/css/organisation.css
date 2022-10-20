@@ -1,0 +1,82 @@
+/* BARRE DE NAVIGATION : NE PAS TOUCHER */
+.nav-container {
+    width: 100%;
+    z-index: 1000;
+    top: 0;
+    position: fixed;
+    transition: 0.5s;
+    background-color: white;
+    height: 80px;
+    display: block;
+    -webkit-box-shadow: 0 8px 50px 0 rgba(194, 194, 194, 0.5);
+    box-shadow: 0 8px 50px 0 rgba(194, 194, 194, 0.5);
+
+}
+.nav-container .nav-logo {
+    padding-left: 2vw;
+    height: 100%;
+    width: 20vw;
+    float: left;
+    display: flex;
+    align-items: center;
+}
+.nav-container .nav-logo img {
+    display: block;
+    width: 50%;
+    margin-top: 10px;
+}
+.nav-container nav {
+    z-index: 1500;
+    padding-bottom: 10px;
+    width: 70vw;
+    float: right;
+    height: 100%;
+}
+.nav-container nav ul {
+    list-style: none;
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    height: 100%;
+    margin: 0;
+    justify-content: space-between;
+    padding-left: 15vw;
+}
+.nav-container nav ul li {
+    padding: 0 2vw 0 2vw;
+    margin: 20px 0 20px 0;
+    color: #525252;
+    text-align: center;
+    font-family: "Ubuntu Light", sans-serif;
+    font-size: 15px;
+    text-transform: uppercase;
+    transition: 0.3s; }
+.nav-container nav ul li a {
+    text-decoration: none;
+    color: #525252; }
+.nav-container nav ul li:hover {
+    color: darkgray; }
+.nav-container nav ul li:hover a {
+    color: inherit; }
+.nav-container nav ul li:last-of-type {
+    border: 0; }
+
+
+
+
+
+
+
+main{
+    min-height: 150vh;
+    padding: 5vh;
+    width: 80vw;
+    background-color: white;
+    margin: auto;
+    z-index: 600;
+    margin-top: 20vh;
+}
+.main-content{
+    width: 100%;
+}
+
