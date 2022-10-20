@@ -1,0 +1,160 @@
+body {
+    background-color: #72b7dd !important;
+}
+
+main {
+    background-color: #72b7dd !important;
+    font-family: Ubuntu;
+    margin-top: 5vh !important;
+}
+
+.main-content {
+    position: relative;
+}
+
+.block-title {
+    width: 100%;
+    height: 600px;
+    background-color: wheat;
+    background-image: url("https://www.capgemini.com/wp-content/uploads/2021/04/Capgemini-about-us-hero-banner.jpg");
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.block-title h1 {
+    font-weight: bolder;
+    font-family: Ubuntu;
+    color: white;
+    font-size: 4em;
+    z-index: 1;
+    padding: 5px;
+}
+
+.block-title h1 {
+    font-weight: bolder;
+    font-family: Ubuntu;
+    color: white;
+    font-size: 4em;
+    z-index: 2;
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+.timeline {
+    display: inline-block;
+    background-color: #F0F0F0;
+    width: 5px;
+    min-height: 100%;
+    position: absolute;
+    left: 50%;
+    margin-left: -2.5px;
+}
+
+.block-date {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+
+.date-space {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.date-space-left {
+    flex-direction: row;
+}
+
+.date-space-right {
+    flex-direction: row-reverse;
+}
+
+.date-space .img-container {
+    display: block;
+    width: 400px;
+    position: relative;
+}
+
+.date-space-left .img-container {
+    margin-left: 4em;
+}
+
+.date-space-right .img-container {
+    margin-right: 4em;
+}
+
+.date-space .img-container img {
+    width: 100%;
+    margin: 0;
+    border-radius: 25px;
+}
+
+.date-space .img-container .img-description {
+    position: absolute;
+    display: block;
+    bottom: 0;
+    background-color: rgba(255, 255, 255, 0.5);
+    width: 100%;
+    margin: 0;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+
+.date-event{
+    display: flex;
+    background-color: #F0F0F0;
+    min-width: 45%;
+    max-width: 45%;
+    min-height: 250px;
+    max-height: 400px;
+    -webkit-box-shadow: 0px 0px 5px -2px #959595;
+    box-shadow: 0px 0px 10px 0px #959595;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.date-event .date{
+    font-size: 18pt;
+    font-weight: bolder;
+    margin: auto;
+    margin-top: 1em !important;
+    margin-bottom: 0 !important;
+}
+
+.date-event .date-text{
+    display: block;
+    max-width: 1;
+    margin: 3em;
+    margin-top: 1em !important;
+    margin-bottom: 1em !important;
+    font-size: 16pt;
+    text-align: justify;
+}
+
+.date-event .underline-date {
+    border-top: 1px solid black;
+    width: 80%;
+    margin-top: 1em !important;
+}
+
+.triangle {
+    display : inline-block;
+    height : 0;
+    width : 0;
+    border-top : 50px solid transparent;
+    border-bottom : 50px solid transparent;
+    border-left : 50px solid #F0F0F0;
+}
+
+.triangle-right {
+    transform: rotate(0.5turn);
+}
