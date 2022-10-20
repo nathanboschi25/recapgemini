@@ -10,6 +10,7 @@ main {
 
 .main-content {
     position: relative;
+    background-color: #72b7dd !important;
 }
 
 .block-title {
