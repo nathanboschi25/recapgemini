@@ -63,3 +63,32 @@ Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&sho
 Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fnathanboschi25.github.io%2Frecapgemini%2Forganisation.html)
 ![w3c organisation](doc/w3c/organisation.png)
 
+## Répartition du travail
+
+### Planification - Diagramme de GANTT
+
+- Nathan BOSCHI (100%)
+
+### Recherches d'informations
+
+- Théo GASNER (60%)
+- Jessy MOUGAMMADALY (30%)
+
+- Nathan BOSCHI (10%)
+
+### Rapport économique
+
+- Jessy MOUGAMMADALY (70%)
+- Théo GASNER (20%)
+- Nathan BOSCHI (10%)
+
+### Developpement site
+
+- Nathan BOSCHI (60%)
+  - Page d'acceuil
+  - Template de page (Navbar/Footer)
+  - Page présentation
+- Jessy MOUGAMMADALY (20%)
+  - Page histoire
+- Théo GASNER (20%)
+  - Page organisation
