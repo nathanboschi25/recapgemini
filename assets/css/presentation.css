@@ -81,6 +81,7 @@ main{
     margin: auto;
     z-index: 600;
     margin-top: 20vh;
+    text-align: justify;
 }
 .main-content{
     width: 100%;
@@ -90,28 +91,61 @@ main{
     text-align: center;
 }
 .activites img{
-    border-radius: 50px;
+    border-radius: 20px;
     width: 100%;
 }
 p{
     font-size: 14pt;
+    line-height: 200%;
 }
 
 .hero-card{
-    width: 200px;
-    padding: 30px;
-    background-color: #ced4da;
+    width: 350px;
+    padding: 20px;
+    background-color: #ff304c;
+    font-size: 20pt;
+    color: white;
+    -webkit-box-shadow: 5px 5px 20px 0px rgba(0,0,0,0.5);
+    box-shadow: 5px 5px 20px 0px rgba(0,0,0,0.5);
+    margin-bottom: 3vh;
+    margin-top: 5vh;
 }
 .partenaires{
     width:100%;
 }
 .partenaires-tech{
-    width: 100%;
+    width: 90%;
     display: flex;
     flex-flow: row wrap;
+    justify-content: space-evenly;
     margin: 2vw;
 }
 .partenaires-tech img{
     height: 50px;
-    margin: 10px;
+    margin: 20px;
+}
+.clients{
+     width: 90%;
+     display: flex;
+     flex-flow: row wrap;
+    justify-content: space-evenly;
+     margin: 2vw;
+ }
+.clients img{
+    height: 50px;
+    margin: 20px;
+}
+img.ecolo{
+    width: 100%;
+}
+div.ecolo{
+    margin-top: 8vh;
+    margin-bottom: 8vh;
+}
+div.ecolo img{
+    width: 100%
+}
+div.ecolo p{
+    margin: 0;
+    height: 280px;
 }
