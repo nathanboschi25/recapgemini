@@ -42,5 +42,17 @@ Pour la conception du site, nous nous sommes grandement inspirés du site offici
 **Menu général :**
 ![menu_page](doc/menu_page.png)
 
-## Livrable parties Économie et Documents numérique	
-[écran prototype](doc/groupe_nom1_nom2_nom3_nom4.pdf)
+## Site Web
+###Page d'accueil###
+**Auteur : Nathan BOSCHI**
+Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fnathanboschi25.github.io%2Frecapgemini%2F)
+
+###Présentation générale###
+**Auteur : Nathan BOSCHI**
+
+###Histoire###
+**Auteur : Jessy MOUGAMMADALY**
+
+###Organisation###
+**Auteur : Théo GASNER**
+
