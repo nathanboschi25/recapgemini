@@ -51,12 +51,15 @@ Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&sho
 ### Présentation générale
 **Auteur : Nathan BOSCHI**\
 Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fnathanboschi25.github.io%2Frecapgemini%2Fpresentation.html)
+![w3c presentation](doc/w3c/presentation.png)
 
 ### Histoire
 **Auteur : Jessy MOUGAMMADALY**\
 Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fnathanboschi25.github.io%2Frecapgemini%2Fhistoire.html)
+![w3c histoire](doc/w3c/histoire.png)
 
 ### Organisation
 **Auteur : Théo GASNER**\
 Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fnathanboschi25.github.io%2Frecapgemini%2F)
+![w3c organisation](doc/w3c/organisation.png)
 
