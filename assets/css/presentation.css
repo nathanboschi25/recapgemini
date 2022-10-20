@@ -91,20 +91,27 @@ main{
 }
 .activites img{
     border-radius: 50px;
+    width: 100%;
 }
 p{
     font-size: 14pt;
 }
 
-.container .title img{
-    position: absolute;
-    z-index: 4000;
-}
 .hero-card{
-    position: relative;
-    top: 300px;
-    z-index: 5000;
     width: 200px;
     padding: 30px;
     background-color: #ced4da;
+}
+.partenaires{
+    width:100%;
+}
+.partenaires-tech{
+    width: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    margin: 2vw;
+}
+.partenaires-tech img{
+    height: 50px;
+    margin: 10px;
 }
