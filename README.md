@@ -46,6 +46,7 @@ Pour la conception du site, nous nous sommes grandement inspirés du site offici
 ### Page d'accueil
 **Auteur : Nathan BOSCHI**\
 Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fnathanboschi25.github.io%2Frecapgemini%2F)
+![w3c_accueil](doc/w3c/accueil.png)
 
 ### Présentation générale
 **Auteur : Nathan BOSCHI**\
