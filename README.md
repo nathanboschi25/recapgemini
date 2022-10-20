@@ -42,7 +42,7 @@ Pour la conception du site, nous nous sommes grandement inspirés du site offici
 **Menu général :**
 ![menu_page](doc/menu_page.png)
 
-## Développement Site Web (Vérification W3C : [PDF](doc/validation.pdf)
+## Développement Site Web (Vérification W3C : [PDF](doc/validation.pdf))
 ### Page d'accueil
 **Auteur : Nathan BOSCHI**\
 Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fnathanboschi25.github.io%2Frecapgemini%2F)
