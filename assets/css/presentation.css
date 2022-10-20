@@ -149,3 +149,6 @@ div.ecolo p{
     margin: 0;
     height: 280px;
 }
+.images img{
+    width: 100%;
+}
