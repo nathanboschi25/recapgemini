@@ -80,3 +80,96 @@ main{
     width: 100%;
 }
 
+.section-title-container {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+.section-title-container h2 {
+    font-size: 3.5em;
+    color: #202020;
+    z-index: 1;
+}
+.section-title-container h3 {
+    color: #3a3838;
+    z-index: 1;
+}
+.service{
+    text-align: center;
+    
+}
+.service img{
+    border-radius: 20px;
+    width: 100%;
+}
+p{
+    font-size: 14pt;
+    line-height: 200%;
+}
+
+
+.block-title {
+    width: 100%;
+    height: 800px;
+    background-image: url("https://www.capgemini.com/wp-content/uploads/2021/09/Capgemini_Services.jpg");
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.block-title h1 {
+    font-weight: bolder;
+    font-family: Ubuntu;
+    color: rgb(255, 255, 255);
+    font-size: 4em;
+    z-index: 2;
+    background-color: rgba(0, 0, 0, 0.2);
+    padding: 20px;
+}
+
+.main-content .card .right img{
+    height: 300px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.main-content .card{
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+.main-content .card .left{
+    flex: 0 0 80%;
+    padding: 30px;
+    border-radius: 30px;
+    background-color: rgb(40, 103, 161);
+    color: #fff;
+}
+.main-content .card.right{
+    flex: 0 0 70%;
+}
+
+main .condition {
+    margin: auto; }
+    main .condition .travail {
+      height: 750px;
+      margin: 150px 0 150px 0;
+      position: relative;
+      background-image: url("https://www.netpme.fr/wp-content/uploads/2016/10/comite-entreprise-droit-alerte-economique.png");
+      background-size: cover;
+      background-repeat: no-repeat; }
+      main .condition .travail .texts {
+        text-align: justify;
+        line-height: 2em;
+        width: 50%;
+        background-color: white;
+        padding: 40px;
+        position: absolute;
+        bottom: 60px;
+        top: auto;
+        transform: none; }
+        main .condition .travail .texts h3 {
+          margin-top: 0; }
