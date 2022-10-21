@@ -67,28 +67,28 @@ Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&sho
 
 ### Planification - Diagramme de GANTT
 
-- Nathan BOSCHI (100%)
+- Nathan BOSCHI
 
 ### Recherches d'informations
 
-- Théo GASNER (60%)
-- Jessy MOUGAMMADALY (30%)
+- Théo GASNER
+- Jessy MOUGAMMADALY
 
-- Nathan BOSCHI (10%)
+- Nathan BOSCHI
 
 ### Rapport économique
 
-- Jessy MOUGAMMADALY (70%)
-- Théo GASNER (20%)
-- Nathan BOSCHI (10%)
+- Jessy MOUGAMMADALY
+- Théo GASNER
+- Nathan BOSCHI
 
 ### Developpement site
 
-- Nathan BOSCHI (60%)
+- Nathan BOSCHI
   - Page d'acceuil
   - Template de page (Navbar/Footer)
   - Page présentation
-- Jessy MOUGAMMADALY (20%)
+- Jessy MOUGAMMADALY
   - Page histoire
-- Théo GASNER (20%)
+- Théo GASNER
   - Page organisation
